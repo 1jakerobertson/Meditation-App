@@ -1,2 +1,1 @@
-# meditation-app
-Meditation app tutorial
+# Welcome to my Mediation Application
